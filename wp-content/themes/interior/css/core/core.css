@@ -1,0 +1,50 @@
+.list-of-images .gallery_item {
+    display: inline-block;
+}
+
+span.wpcf7-form-control-wrap {
+    display: block;
+    position: relative;
+}
+
+.wpcf7-form-control {
+    border-radius: 5px 5px 5px 5px !important;
+    width: 100%;
+    height: 30px !important;
+}
+
+span.wpcf7-not-valid-tip {
+    left: 3px !important;
+    top: 2px !important;
+    border-radius: 5px 5px 5px 5px !important;
+    width: 99%;
+    height: 30px;
+}
+.wpcf7-textarea {
+    height:130px !important;
+    margin-bottom:4px;
+}
+
+.home_slider .btn2top_li, .home_slider .btn2top {
+    display: none;
+}
+
+.image-grid .element {
+    float: left;
+}
+
+.mc_signup_submit {
+    text-align: left;
+}
+
+#mc_subheader {
+    padding-bottom: 7px;
+}
+
+.pf_video_container {
+    padding-bottom: 20px;
+}
+
+body .page_title_block .headInModule {
+    margin-bottom: 47px !important;
+}
